@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">32sp</dimen>
+    <dimen name="field_size">19sp</dimen>
+    <dimen name="margin_size">10sp</dimen>
+    <dimen name="contact_name_size">22sp</dimen>
+</resources>

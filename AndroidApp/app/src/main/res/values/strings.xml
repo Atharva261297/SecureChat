@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EncryptChat</string>
+    <string name="phone_number">Phone number</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="search_contacts">Search Contacts</string>
+    <string name="refresh">Refresh</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="about">About</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="contact_mail">ath.bapat@gmail.com</string>
+</resources>
